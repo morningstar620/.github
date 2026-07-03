@@ -1,69 +1,119 @@
-Hi there 👋, I'm Aryan
-I'm a full-stack developer focused on building modern web applications, developer tools, AI-powered products, and open-source software.
+# Hi, I'm Raj Kumar Mandal (Aryan) 👋
 
-I enjoy solving real-world problems through clean architecture, scalable systems, and thoughtful user experiences.
+> Building AI-first products, developer tools, and SaaS that solve real-world problems.
 
-🚀 What I'm Working On
-Building open-source developer tools
-Exploring AI agents, automation, and LLM applications
-Creating modern SaaS products
-Contributing to the open-source ecosystem
-💻 Tech Stack
-Languages
-TypeScript
-JavaScript
-Python
-SQL
-Frontend
-React
-Next.js
-Tailwind CSS
-HTML & CSS
-Backend
-Node.js
-Express
-PostgreSQL
-MySQL
-MongoDB
-Redis
-DevOps & Cloud
-Docker
-GitHub Actions
-Linux
-Nginx
-Cloudflare
-AI
-OpenAI
-Gemini
-LangChain
-Vector Databases
-Retrieval-Augmented Generation (RAG)
-📚 Interests
-Open Source
-Artificial Intelligence
-Developer Experience (DX)
-System Design
-Scalable Architecture
-Product Engineering
-🌱 Philosophy
-Build things that are useful. Keep them simple. Share them with everyone.
+I'm a full-stack developer and entrepreneur from India, passionate about building products at the intersection of AI, automation, and modern web technologies. I enjoy turning complex ideas into scalable software and creating products that people actually love using.
 
-📈 GitHub
-I use GitHub to:
+---
 
-Build in public
-Share open-source projects
-Experiment with new technologies
-Learn from the developer community
-Collaborate on meaningful software
-🤝 Open to Collaborate
-I'm always interested in collaborating on:
+## 🚀 What I'm Building
 
-Open-source projects
-AI applications
-SaaS products
-Developer tools
-Automation platforms
-If you're building something interesting, feel free to reach out.
+### 🏢 OJX Studio
+Building AI-powered SaaS products and custom software solutions.
 
-⭐ Thanks for stopping by!
+### 🎓 Zodyk
+An AI-powered Education Operating System designed to modernize how educational institutions manage students, academics, communication, analytics, and operations.
+
+### 💬 MessageMix
+WhatsApp Business API platform for messaging, automation, CRM, and customer engagement.
+
+### ⚡ OGX Pay
+Scheduling, payments, forms, and workflow automation platform.
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
+- WebSockets
+
+### Database
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+
+### AI
+- OpenAI
+- Gemini
+- RAG
+- AI Agents
+- LangChain
+- MCP
+- Prompt Engineering
+
+### DevOps & Cloud
+- Docker
+- GitHub Actions
+- Vercel
+- Cloudflare
+- AWS
+
+### Tools
+- Git
+- VS Code
+- Cursor
+- Figma
+- Postman
+
+---
+
+## 🌱 Currently Learning
+
+- AI Infrastructure
+- Distributed Systems
+- LLM Engineering
+- System Design
+- Scalable SaaS Architecture
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=morningstar620&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morningstar620&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=morningstar620&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/morningstar620
+- LinkedIn: https://linkedin.com/in/ogxaryan
+- Email: aryan@ogxstudio.in
+
+---
+
+## 💭 Philosophy
+
+> Build products that solve real problems.
+>
+> Ship fast. Learn faster.
+>
+> AI isn't replacing developers—it's multiplying them.
+
+---
+
+⭐ If you like my work, consider following me or starring one of my repositories.
