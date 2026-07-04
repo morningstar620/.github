@@ -6,8 +6,8 @@ I'm a full-stack developer and entrepreneur from India, passionate about buildin
 
 ---
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morningstar620/morningstar620/output/github-contribution-grid-snake-dark.svg">
- <img alt="snake!" src="https://raw.githubusercontent.com/morningstar620/morningstar620/output/github-contribution-grid-snake-light.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morningstar620/.github/output/github-contribution-grid-snake-dark.svg">
+ <img alt="snake!" src="https://raw.githubusercontent.com/morningstar620/.github/output/github-contribution-grid-snake-light.svg">
 </picture>
 
 ## 🚀 What I'm Building
