@@ -1,120 +1,193 @@
-# Hi, I'm Raj Kumar Mandal (Aryan) 👋
 
-> Building AI-first products, developer tools, and SaaS that solve real-world problems.
+<div align="center">
 
-I'm a full-stack developer and entrepreneur from India, passionate about building products at the intersection of AI, automation, and modern web technologies. I enjoy turning complex ideas into scalable software and creating products that people actually love using.
+# 👋 Hey, I'm Aryan
+
+### Building the future of Web Development, AI & Business Software.
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=6B5BFF&center=true&vCenter=true&width=750&lines=Founder+of+OGX+Studio;Creator+of+Zodyk;Building+Open+Source+Products;AI+%7C+Full+Stack+Developer;Always+Building+Something+New" alt="Typing SVG" />
+</p>
+
+<p>
+  <a href="https://github.com/morningstar620">
+    <img src="https://img.shields.io/github/followers/morningstar620?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=morningstar620&style=for-the-badge&label=Profile+Views" />
+
+  <img src="https://img.shields.io/badge/Open%20Source-❤-6B5BFF?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Built%20with-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://www.ogxaryan.com">
+    <img src="https://img.shields.io/badge/Website-Visit-6B5BFF?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ogxaryan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/ogxaryan/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
+# 🚀 About Me
 
-## 🚀 What I'm Building
+I'm a developer and entrepreneur passionate about building software that is fast, scalable, open source, and developer-first.
 
-### 🏢 OGX Studio
-Building AI-powered SaaS products and custom software solutions.
-
-### 🎓 Zodyk
-An AI-powered Education Operating System designed to modernize how educational institutions manage students, academics, communication, analytics, and operations.
-
-### 💬 MessageMix
-WhatsApp Business API platform for messaging, automation, CRM, and customer engagement.
-
-### ⚡ OGX Pay
-Scheduling, payments, forms, and workflow automation platform.
+I enjoy creating products that improve developer experience, simplify complex workflows, and help businesses grow through technology.
 
 ---
 
-## 💻 Tech Stack
+# 🔥 Currently Building
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- HTML
-- CSS
-- JavaScript
+### ⚡ Zodyk
 
-### Backend
-- Node.js
-- Express.js
-- NestJS
-- REST APIs
-- WebSockets
+An open-source modern web framework focused on performance, visual editing, and developer experience.
 
-### Database
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
+### 🤖 Arya
 
-### AI
-- OpenAI
-- Gemini
-- RAG
+An AI assistant designed for productivity, automation, and intelligent workflows.
+
+### 🏢 Xenon
+
+A next-generation Education Operating System built for institutions.
+
+### 🚀 OGX Studio
+
+Building developer tools, SaaS products, AI software, and open-source technologies.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,mongodb,postgres,tailwind,docker,git,github,linux,cloudflare,aws,vercel,vscode&perline=9" />
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
 - AI Agents
-- LangChain
-- MCP
-- Prompt Engineering
-
-### DevOps & Cloud
-- Docker
-- GitHub Actions
-- Vercel
-- Cloudflare
-- AWS
-
-### Tools
-- Git
-- VS Code
-- Cursor
-- Figma
-- Postman
-
----
-
-## 🌱 Currently Learning
-
-- AI Infrastructure
+- Large Language Models
 - Distributed Systems
-- LLM Engineering
-- System Design
-- Scalable SaaS Architecture
+- Advanced TypeScript
+- Performance Optimization
+- Developer Experience
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=morningstar620&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morningstar620&layout=compact&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=morningstar620&show_icons=true&count_private=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morningstar620&layout=compact&hide_border=true" />
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=morningstar620&theme=github-dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=morningstar620&hide_border=true" />
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Contribution Graph
 
-- GitHub: https://github.com/morningstar620
-- LinkedIn: https://linkedin.com/in/ogxaryan
-- Email: aryan@ogxstudio.in
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=morningstar620&hide_border=true&radius=16" />
 
-## 💭 Philosophy
-
-> Build products that solve real problems.
->
-> Ship fast. Learn faster.
->
-> AI isn't replacing developers—it's multiplying them.
+</p>
 
 ---
 
-⭐ If you like my work, consider following me or starring one of my repositories.
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=morningstar620&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morningstar620/morningstar620/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/morningstar620/morningstar620/output/github-contribution-grid-snake.svg">
+</picture>
+
+</p>
+
+---
+
+# 💡 Philosophy
+
+> Build software that's simple for beginners, powerful for professionals, and open for everyone.
+
+---
+
+# 🎯 Goals
+
+- 🚀 Grow Zodyk into a world-class open-source ecosystem
+- 🤖 Build AI products that solve real-world problems
+- 🌍 Contribute meaningful projects to the open-source community
+- ⚡ Create software used by developers worldwide
+- ❤️ Keep learning, building, and sharing
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/morningstar620">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ogxaryan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ogxaryan/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.ogxaryan.com/">
+<img src="https://img.shields.io/badge/Website-6B5BFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Building the next generation of developer tools, AI products, and open-source software.**
+
+</div>
+
