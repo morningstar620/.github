@@ -8,7 +8,7 @@ I'm a full-stack developer and entrepreneur from India, passionate about buildin
 
 ## 🚀 What I'm Building
 
-### 🏢 OJX Studio
+### 🏢 OGX Studio
 Building AI-powered SaaS products and custom software solutions.
 
 ### 🎓 Zodyk
