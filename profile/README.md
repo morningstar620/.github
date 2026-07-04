@@ -9,6 +9,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&color=6B5BFF&center=true&vCenter=true&width=750&lines=Founder+of+OGX+Studio;Creator+of+Zodyk;Building+Open+Source+Products;AI+%7C+Full+Stack+Developer;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/morningstar620/morningstar620/output/github-contribution-grid-snake-dark.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/morningstar620/morningstar620/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p>
   <a href="https://github.com/morningstar620">
     <img src="https://img.shields.io/github/followers/morningstar620?style=for-the-badge&logo=github&label=Followers" />
