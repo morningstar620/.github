@@ -5,10 +5,7 @@
 I'm a full-stack developer and entrepreneur from India, passionate about building products at the intersection of AI, automation, and modern web technologies. I enjoy turning complex ideas into scalable software and creating products that people actually love using.
 
 ---
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morningstar620/.github/output/github-contribution-grid-snake-dark.svg">
- <img alt="snake!" src="https://raw.githubusercontent.com/morningstar620/.github/output/github-contribution-grid-snake-light.svg">
-</picture>
+
 
 ## 🚀 What I'm Building
 
